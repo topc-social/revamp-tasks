@@ -10,7 +10,7 @@ Revamp's public project repo: tasks and the Neki ledger for Revamp, a paid servi
 1. Pick any open issue. Anyone can hand in, and the best hand-in wins.
 2. Do the work however you like, including with your own AI.
 3. Hand in by commenting on the issue with a link others can open and a line or two on what you did.
-4. Kamal accepts the best hand-in, labels the issue `accepted`, and closes it. The Neki is added as a row in [`LEDGER.md`](LEDGER.md).
+4. Kamal accepts the best hand-in, labels the issue `accepted`, and closes it. A workflow then adds the two Neki rows (1% idea, 99% work) to [`LEDGER.md`](LEDGER.md) itself.
 
 ## Rules
 
