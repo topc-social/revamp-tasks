@@ -8,3 +8,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 |---|---|---|---|---|---|---|
 | 1 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #4: What Indian studios charge for an animated website revamp | 30 | provisional | https://github.com/topc-social/revamp-tasks/pull/5 |
 | 2 | 2026-10-25 | Kamal Khatwani | Work (99%) on #4: What Indian studios charge for an animated website revamp | 2,970 | provisional | https://github.com/topc-social/revamp-tasks/pull/5 |
+| 3 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #6: Internshala post for a sales intern selling Revamp to startups | 20 | provisional | https://github.com/topc-social/revamp-tasks/pull/7 |
+| 4 | 2026-10-25 | Kamal Khatwani | Work (99%) on #6: Internshala post for a sales intern selling Revamp to startups | 1,980 | provisional | https://github.com/topc-social/revamp-tasks/pull/7 |
